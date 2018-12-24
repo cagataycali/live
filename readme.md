@@ -3,9 +3,9 @@
 
 * Beraber öğreneceğiz. %100 eğitim içeriği **değildir.**
 
-- [Pazartesi](./pazartesi.md)
-- [Çarşamba](./carsamba.md)
-- [Cuma](./cuma.md)
+- [Pazartesi](./pazartesi)
+- [Çarşamba](./carsamba)
+- [Cuma](./cuma)
 
 
 > Dipnot:
