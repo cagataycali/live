@@ -1,8 +1,9 @@
 # Yayın 1:
+---
 
 :hourglass: Başlık: **Araştırmaya Başlama**
 
-> Açıklama
+> Hep aklımda olan "font level encryption" konusu üzerinde araştırma gerçekleştireceğiz.
 
 :dizzy: **Çıkarımlar:**
 

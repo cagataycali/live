@@ -1,8 +1,9 @@
 # Yayın 1:
+---
 
 :hourglass: Başlık: **Beraber Öğreniyoruz**
 
-> Açıklama
+> Canlı yayınların kalitesi için temel testler gerçekleştirildi.
 
 :dizzy: **Çıkarımlar:**
 
